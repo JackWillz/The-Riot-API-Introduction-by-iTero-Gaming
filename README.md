@@ -17,3 +17,5 @@ You can follow me on Twitter to see what I'm using the Riot API for: https://twi
 I write a weekly article about statistics/AI/esports/gaming, you can subscribe here: https://medium.com/subscribe/@JackJGaming
 
 Check out the iTero Gaming website to see what we've built: https://itero.gg/
+
+iTero Gaming, nor this tutorial is NOT endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
