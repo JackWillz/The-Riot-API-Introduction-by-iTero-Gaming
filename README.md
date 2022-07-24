@@ -10,6 +10,9 @@ I'm Jack J and I'm the Founder & Lead Data Scientist for iTero Gaming. I've writ
 
 By the end of the guide you should be able to successfully build a script to takes any Summoner Name and print out information about their 100 most recent solo queue games, such as most kills in a game or best KDA on a champion. 
 
+If you haven't yet got Jupyter Notebooks (Python) to run the code, you can download it from here: https://www.anaconda.com/products/distribution
+NOTE: the notebook was built on Python 3.9, but given the simplicity it should be OK with most 3.X versions. 
+
 You can join our Discord to ask questions, show off what you're building or get inspiration: https://discord.gg/DmSUDGEW6V
 
 You can follow me on Twitter to see what I'm using the Riot API for: https://twitter.com/JackJGaming
