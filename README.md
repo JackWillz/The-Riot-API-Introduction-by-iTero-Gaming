@@ -1,1 +1,1 @@
-# The-Riot-API-Introduction-by-iTero-Gaming
+# The Riot API Introduction by iTero Gaming
